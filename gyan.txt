@@ -1,0 +1,5 @@
+There are four type of recommendation system
+(1) A popularity-based recommendation system is one in which recommendations are made based on a formula or the content that is most frequently visited.
+(2) Content based is one in which recommendations are made based on columns in the dataset like we can recommend all movies of same hero,same production houses movies same director etc.
+(3) Collaborative filter System is on in which recommendation is based on content that is positively reviewed by users.
+(4) Hybrid recommendation system is that in which we merge concept of all three system and give weightage to all thses three according to our requirements.
